@@ -1,0 +1,51 @@
+<svg width="105px" height="105px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="background" cx="50%" cy="10%" r="50%">
+      <stop offset="5%" stop-color="#F7BDCF" />
+      <stop offset="95%" stop-color="#AD153A" />
+    </radialGradient>
+  </defs>
+  <rect x="0" y="0" width="105" height="105" fill="url(#background)"/>
+  <g fill="white" transform="translate(0, 3)">
+    <g transform="translate(8,7)">
+      <ellipse cx="-21" cy="0" rx="5" ry="5"/>
+      <ellipse cx="0" cy="0" rx="5" ry="5"/>
+      <ellipse cx="21" cy="0" rx="5" ry="5"/>
+      <ellipse cx="42" cy="0" rx="5" ry="5"/>
+      <ellipse cx="63" cy="0" rx="5" ry="5"/>
+      <ellipse cx="84" cy="0" rx="5" ry="5"/>
+    </g>
+    <g transform="translate(18,28)">
+      <ellipse cx="-21" cy="0" rx="5" ry="5"/>
+      <ellipse cx="0" cy="0" rx="5" ry="5"/>
+      <ellipse cx="21" cy="0" rx="5" ry="5"/>
+      <ellipse cx="42" cy="0" rx="5" ry="5"/>
+      <ellipse cx="63" cy="0" rx="5" ry="5"/>
+      <ellipse cx="84" cy="0" rx="5" ry="5"/>
+    </g>
+    <!-- g transform="translate(8,49)">
+      <ellipse cx="-21" cy="0" rx="5" ry="5"/>
+      <ellipse cx="0" cy="0" rx="5" ry="5"/>
+      <ellipse cx="21" cy="0" rx="5" ry="5"/>
+      <ellipse cx="42" cy="0" rx="5" ry="5"/>
+      <ellipse cx="63" cy="0" rx="5" ry="5"/>
+      <ellipse cx="84" cy="0" rx="5" ry="5"/>
+    </g -->
+    <g transform="translate(18,70)">
+      <ellipse cx="-21" cy="0" rx="5" ry="5"/>
+      <ellipse cx="0" cy="0" rx="5" ry="5"/>
+      <ellipse cx="21" cy="0" rx="5" ry="5"/>
+      <ellipse cx="42" cy="0" rx="5" ry="5"/>
+      <ellipse cx="63" cy="0" rx="5" ry="5"/>
+      <ellipse cx="84" cy="0" rx="5" ry="5"/>
+    </g>
+    <g transform="translate(8,91)">
+      <ellipse cx="-21" cy="0" rx="5" ry="5"/>
+      <ellipse cx="0" cy="0" rx="5" ry="5"/>
+      <ellipse cx="21" cy="0" rx="5" ry="5"/>
+      <ellipse cx="42" cy="0" rx="5" ry="5"/>
+      <ellipse cx="63" cy="0" rx="5" ry="5"/>
+      <ellipse cx="84" cy="0" rx="5" ry="5"/>
+    </g>
+  </g>
+</svg>
